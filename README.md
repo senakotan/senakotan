@@ -73,15 +73,6 @@ I enjoy building production-ready structures such as **API services**, **vector-
 - **Google BigQuery (Large-scale Data Processing)**
 
 
-## 📌 Featured Projects  
-- **TRT Digital Support Assistant** — RAG chatbot (FAISS + LLM)  
-- **Tabii Engagement Forecasting** — Meta Prophet + ML pipeline
-- **3-Axis Bluetooth Robotic Arm** — STM32 + HC-06 + PWM control  
-- **AI Agent Vacuum Simulator** — Intelligent agent using reflex behavior  
-- **Accounting Management System** — Java Swing + MySQL  
-- **Maze Escape Game** — Python  
-- **Space Exploration Game** — Java Swing
-
 ---
 
 <p align="center"><i>Always learning. Always building.</i></p>
