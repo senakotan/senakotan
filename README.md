@@ -40,21 +40,13 @@ I enjoy building production-ready structures such as **API services**, **vector-
 ### 🤖 Artificial Intelligence & Data Science  
 - **LLMs & RAG (Retrieval-Augmented Generation)**  
 - **FAISS Vector Databases**  
-- **AI Agent Systems**  
+- **AI Agent Systems**
+- **Time Series Forecasting**  
 - **Feature Engineering & Data Pipelines**  
 - **PyTorch • TensorFlow/Keras**  
 - **Scikit-Learn**  
 - **NumPy • Pandas • Matplotlib • Seaborn**  
-- **Prophet / Meta Prophet (Time-Series Modeling)**
-
----
-
-### 🧠 Applied Machine Learning  
-- **Classification, Regression, Clustering**  
-- **Time-Series Forecasting**  
-- **Model Evaluation (MAE, RMSE, MAPE, F1, Accuracy)**  
-- **Model Deployment, Optimization & Experiment Tracking**
-
+  
 ---
 
 ### ⚙️ Embedded Systems & Robotics  
