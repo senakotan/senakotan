@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:senakotan34@gmail.com">
-    <img height="28" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  <a href="mailto:senakotan34@gmail.com" style="text-decoration:none;">
+    <img height="20" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+    <span style="font-size:16px; margin-left:6px; color:#555;">senakotan34@gmail.com</span>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sena-kotan">
-    <img height="28" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sena-kotan" style="text-decoration:none;">
+    <img height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+    <span style="font-size:16px; margin-left:6px; color:#555;">senakotan</span>
   </a>
 </p>
 
