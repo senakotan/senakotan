@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sena Kotan</h1>
 <p align="center">
-  Electrical Electronics & Computer Engineering (Double Major)<br>
+  Electrical Electronics & Computer Engineering<br>
   AI • Embedded Systems • Software Development
 </p>
 
