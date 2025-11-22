@@ -1,65 +1,89 @@
 <h1 align="center">👋 Hi, I'm Sena Kotan</h1>
 <p align="center">
-  Electrical Electronics & Computer Engineering<br>
+  Electrical Electronics & Computer Engineering (Double Major)<br>
   AI • Embedded Systems • Software Development
 </p>
 
----
+<p align="center">
+  <a href="mailto:senakotan34@gmail.com">
+    <img src="https://img.shields.io/badge/Email- senakotan34%40gmail.com -D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sena-kotan">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 
 ## 🚀 About Me  
 I work at the intersection of **Artificial Intelligence**, **Embedded Systems**, and **Software Engineering**.  
-I build LLM-based chatbot systems, time-series forecasting models, cross-platform applications, and real-time STM32 embedded projects.
+My projects focus on **LLM applications**, **RAG systems**, **AI agents**, **machine learning pipelines**, **time-series forecasting**, and **real-time embedded development (STM32)**.  
+I enjoy building production-ready structures such as **API services**, **vector-search systems**, and **end-to-end ML workflows**.
 
 ---
 
-## 🛠 Technologies & Tools  
 
-### 💻 Programming Languages  
+## 🛠️ Technologies & Tools  
+
+### 💻 Programming  
 - **Python • Java**  
 - **C • C++ • C#**  
 - **SQL • JavaScript**  
 - **MATLAB • LabVIEW**
 
-### 🤖 AI & Data Science  
-- **NumPy • Pandas • Matplotlib • Seaborn**  
-- **Scikit-Learn**  
-- **Prophet / Meta Prophet**  
-- **PyTorch**  
-- **TensorFlow / Keras**  
-- **FAISS Vector Database**
+---
 
-### ⚙️ Embedded & Robotics  
-- **STM32 HAL / LL**  
-- **Timers, PWM, UART, EXTI**  
-- **HC-06 Bluetooth**   
+### 🤖 Artificial Intelligence & Data Science  
+- **LLMs & RAG (Retrieval-Augmented Generation)**  
+- **FAISS Vector Databases**  
+- **AI Agent Systems**  
+- **Feature Engineering & Data Pipelines**  
+- **PyTorch • TensorFlow/Keras**  
+- **Scikit-Learn**  
+- **NumPy • Pandas • Matplotlib • Seaborn**  
+- **Prophet / Meta Prophet (Time-Series Modeling)**
+
+---
+
+### 🧠 Applied Machine Learning  
+- **Classification, Regression, Clustering**  
+- **Time-Series Forecasting**  
+- **Model Evaluation (MAE, RMSE, MAPE, F1, Accuracy)**  
+- **Model Deployment, Optimization & Experiment Tracking**
+
+---
+
+### ⚙️ Embedded Systems & Robotics  
+- **STM32 (HAL / LL)**  
+- **Timers, PWM, UART, EXTI Interrupts**  
+- **HC-06 Bluetooth Communication**  
+- **Realtime control of servo & DC motors**  
 - **STM32CubeIDE • Keil uVision**
 
-### 🐳 DevOps & Tools  
+---
+
+### 🐳 DevOps, Tools & Development Environments  
+- **API Development (FastAPI, Flask)**  
 - **Docker**  
 - **Git & GitHub**  
-- **Streamlit**  
+- **Streamlit UI Development**  
 - **Jupyter Notebook**
+
+---
 
 ### 🗄️ Databases  
 - **MySQL**  
 - **SQLite**  
-- **Google BigQuery**
+- **Google BigQuery (Large-scale Data Processing)**
 
----
 
 ## 📌 Featured Projects  
 - **TRT Digital Support Assistant** — RAG chatbot (FAISS + LLM)  
-- **Tabii Engagement Forecasting** — Meta Prophet + ML pipeline  
+- **Tabii Engagement Forecasting** — Meta Prophet + ML pipeline
 - **3-Axis Bluetooth Robotic Arm** — STM32 + HC-06 + PWM control  
+- **AI Agent Vacuum Simulator** — Intelligent agent using reflex behavior  
 - **Accounting Management System** — Java Swing + MySQL  
 - **Maze Escape Game** — Python  
 - **Space Exploration Game** — Java Swing
-
----
-
-## 📬 Contact  
-📧 senakotan34@gmail.com  
-🔗 linkedin.com/in/sena-kotan  
 
 ---
 
