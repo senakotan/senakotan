@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Sena Kotan</h1>
+<h1 align="center">👋🏻 Hi, I'm Sena Kotan</h1>
 <p align="center">
-  **Electrical Electronics & Computer Engineering**<br>
+  <b>Electrical Electronics & Computer Engineering</b><br>
   AI • Embedded Systems • Software Development
 </p>
 
