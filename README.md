@@ -20,9 +20,7 @@
 
 
 ## 🚀 About Me  
-I work at the intersection of **Artificial Intelligence**, **Embedded Systems**, and **Software Engineering**.  
-My projects focus on **LLM applications**, **RAG systems**, **AI agents**, **machine learning pipelines**, **time-series forecasting**, and **real-time embedded development (STM32)**.  
-I enjoy building production-ready structures such as **API services**, **vector-search systems**, and **end-to-end ML workflows**.
+I design AI-powered software and embedded solutions for real-world applications.**.
 
 ---
 
