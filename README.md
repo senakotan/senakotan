@@ -20,7 +20,7 @@
 
 
 ## 🚀 About Me  
-I design AI-powered software and embedded solutions for real-world applications.**.
+**I build intelligent systems at the intersection of AI and embedded technologies.**
 
 ---
 
