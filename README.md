@@ -61,7 +61,6 @@
 - **Docker**  
 - **Git & GitHub**  
 - **Streamlit UI Development**  
-- **Jupyter Notebook**
 
 ---
 
