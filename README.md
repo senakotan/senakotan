@@ -64,12 +64,4 @@
 
 ---
 
-### 🗄️ Databases  
-- **MySQL**  
-- **SQLite**  
-- **Google BigQuery (Large-scale Data Processing)**
-
-
----
-
 <p align="center"><i>Always learning. Always building.</i></p>
