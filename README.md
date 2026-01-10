@@ -41,13 +41,12 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 - RAG (Retrieval-Augmented Generation)  
 - Convolutional Neural Networks (CNN)  
 - Time Series Forecasting  
-- Google Colab  
 
 ---
 
 ### ⚙️ Embedded Systems & Hardware  
 - STM32F4 (Microprocessor)  
-- Arduino, ESP32  
+- Arduino
 - CubeIDE, Keil  
 
 ---
@@ -67,8 +66,9 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 ---
 
 ### 🌐 Web & API Development  
-- ASP.NET Core (C# API)  
 - FastAPI  
+- Flask
+- ASP.NET Core
 
 ---
 
