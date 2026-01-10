@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Electrical Electronics & Computer Engineering</b><br>
-  AI • Embedded Systems • Software Development
+  AI  • Software Development  • Embedded Systems
 </p>
 
 <p align="center">
