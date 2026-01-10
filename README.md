@@ -1,4 +1,5 @@
 <h1 align="center">👋🏻 Hi, I'm Sena Kotan</h1>
+
 <p align="center">
   <b>Electrical Electronics & Computer Engineering</b><br>
   AI • Embedded Systems • Software Development
@@ -18,50 +19,80 @@
 
 ---
 
-
 ## 🚀 About Me  
-**I build intelligent systems at the intersection of AI and embedded technologies.**
+
+I am an Electrical Electronics and Computer Engineering student focused on building intelligent systems at the intersection of **Artificial Intelligence, Data Science, Embedded Systems, and Software Engineering**.
+
+I actively work on **time series forecasting**, **machine learning**, **LLM-based systems (RAG)**, and **end-to-end data pipelines**, while also maintaining strong hands-on experience in **embedded systems and hardware-oriented development**.
+
+---
+
+## 🛠️ Skills & Technologies  
+
+### 💻 Programming Languages  
+- Python, Java  
+- C / C++ / C#  
+- JavaScript  
+
+---
+
+### 🤖 AI & Data Science  
+- Machine Learning  
+- Large Language Models (LLM)  
+- RAG (Retrieval-Augmented Generation)  
+- Convolutional Neural Networks (CNN)  
+- Time Series Forecasting  
+- Google Colab  
+
+---
+
+### ⚙️ Embedded Systems & Hardware  
+- STM32F4 (Microprocessor)  
+- Arduino, ESP32  
+- CubeIDE, Keil  
+
+---
+
+### 🗄️ Databases  
+- SQL Server  
+- MySQL  
+
+---
+
+### 🧪 Engineering Design & Simulation  
+- MATLAB  
+- Proteus  
+- LTSpice  
+- LabVIEW  
+
+---
+
+### 🌐 Web & API Development  
+- ASP.NET Core (C# API)  
+- FastAPI  
+
+---
+
+### 🎨 UI & Frontend Development  
+- Streamlit  
+- HTML / CSS  
+- Java Swing  
+
+---
+
+### 🛠️ Tools & Deployment  
+- Docker  
+- Git / GitHub  
+
+---
+
+## 📌 Current Focus Areas
+- Time series user behavior forecasting  
+- Feature engineering & data pipelines  
+- LLM-based question answering systems (RAG)  
+- AI-driven decision support systems  
+- Embedded software & hardware integration  
 
 ---
 
 
-## 🛠️ Technologies & Tools  
-
-### 💻 Programming  
-- **Python • Java**  
-- **C • C++ • C#**  
-- **SQL • JavaScript**  
-- **MATLAB • LabVIEW**
-
----
-
-### 🤖 Artificial Intelligence & Data Science  
-- **LLMs & RAG (Retrieval-Augmented Generation)**  
-- **FAISS Vector Databases**  
-- **AI Agent Systems**
-- **Time Series Forecasting**  
-- **Feature Engineering & Data Pipelines**  
-- **PyTorch • TensorFlow/Keras**  
-- **Scikit-Learn**  
-- **NumPy • Pandas • Matplotlib • Seaborn**  
-  
----
-
-### ⚙️ Embedded Systems & Robotics  
-- **STM32 (HAL / LL)**  
-- **Timers, PWM, UART, EXTI Interrupts**  
-- **HC-06 Bluetooth Communication**  
-- **Realtime control of servo & DC motors**  
-- **STM32CubeIDE • Keil uVision**
-
----
-
-### 🐳 DevOps, Tools & Development Environments  
-- **API Development (FastAPI, Flask)**  
-- **Docker**  
-- **Git & GitHub**  
-- **Streamlit UI Development**  
-
----
-
-<p align="center"><i>Always learning. Always building.</i></p>
