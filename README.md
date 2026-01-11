@@ -51,17 +51,18 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 
 ---
 
-### 🗄️ Databases  
-- SQL Server  
-- MySQL  
-
----
-
-### 🧪 Engineering Design & Simulation  
+### 📐 Engineering Design & Simulation  
 - MATLAB  
 - Proteus  
 - LTSpice  
 - LabVIEW  
+
+---
+
+### 🗄️ Databases  
+- SQL Server  
+- MySQL  
+- SQLite
 
 ---
 
@@ -72,7 +73,7 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 
 ---
 
-### 🎨 UI & Frontend Development  
+### 🖥️ UI & Frontend Development  
 - Streamlit  
 - HTML / CSS  
 - Java Swing  
