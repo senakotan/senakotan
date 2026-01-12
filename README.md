@@ -80,11 +80,6 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 
 ---
 
-### 🛠️ Tools & Deployment  
-- Docker  
-- Git / GitHub  
-
----
 
 ## 📌 Current Focus Areas
 - Time series user behavior forecasting  
