@@ -18,12 +18,6 @@
 
 ---
 
-## 🚀 About Me  
-
-Software and AI focused engineering student with hands-on experience in building intelligent, scalable, and user-oriented systems. Worked on end-to-end software projects in RAG-based applications, time series forecasting, backend development, and computer vision. Also experienced in embedded systems and Edge AI solutions for real-time applications.
-
----
-
 ## 🛠️ Skills & Technologies  
 
 ### 💻 Programming Languages  
