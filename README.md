@@ -20,7 +20,8 @@
 
 ## 👩🏻‍💻 About Me
 
-Final-year Electrical Electronics and Computer Engineering student focused on building intelligent software systems, embedded solutions, and scalable backend applications.  
+
+Electrical Electronics and Computer Engineering student focused on building intelligent software systems, embedded solutions, and scalable backend applications.  
 I work at the intersection of backend development, AI integration, edge systems, and hardware-software co-design.
 
 ---
