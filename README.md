@@ -20,9 +20,7 @@
 
 ## 🚀 About Me  
 
-I am an Electrical Electronics and Computer Engineering student focused on building intelligent systems at the intersection of **Artificial Intelligence, Data Science, Embedded Systems, and Software Engineering**.
-
-I actively work on **time series forecasting**, **machine learning**, **LLM-based systems (RAG)**, and **end-to-end data pipelines**, while also maintaining strong hands-on experience in **embedded systems and hardware-oriented development**.
+Software and AI focused engineering student with hands-on experience in building intelligent, scalable, and user-oriented systems. Worked on end-to-end software projects in RAG-based applications, time series forecasting, backend development, and computer vision. Also experienced in embedded systems and Edge AI solutions for real-time applications.
 
 ---
 
@@ -36,17 +34,20 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 ---
 
 ### 🤖 AI & Data Science  
-- Machine Learning  
+- Machine Learning
+- Computer Vision, CNN  
+- TensorFlow, PyTorch, OpenCV, YOLO  
+- Image Classification, Object Detection 
 - Large Language Models (LLM)  
 - RAG (Retrieval-Augmented Generation)  
-- Convolutional Neural Networks (CNN)  
 - Time Series Forecasting  
+
 
 ---
 
 ### ⚙️ Embedded Systems & Hardware  
-- STM32F4 (Microprocessor)  
-- Arduino
+- STM32F4, NVIDIA Jetson Nano  
+- UART, I2C, SPI  
 - CubeIDE, Keil  
 
 ---
@@ -62,30 +63,23 @@ I actively work on **time series forecasting**, **machine learning**, **LLM-base
 ### 🗄️ Databases  
 - SQL Server  
 - MySQL  
-- SQLite
+- SQLite  
+- PostgreSQL  
 
 ---
 
-### 🌐 Web & API Development  
-- FastAPI  
-- Flask
-- ASP.NET Core
-
----
-
-### 🖥️ UI & Frontend Development  
-- Streamlit  
-- HTML / CSS  
-- Java Swing  
+### 🌐 Backend / Web Development  
+- FastAPI, Flask, ASP.NET Core  
+- Streamlit, HTML, CSS, React  
 
 ---
 
 
 ## 📌 Current Focus Areas
-- Time series user behavior forecasting  
-- Feature engineering & data pipelines  
-- LLM-based question answering systems (RAG)  
-- AI-driven decision support systems  
-- Embedded software & hardware integration  
+- AI-powered software systems and backend development  
+- Computer vision and real-time object detection systems  
+- Edge AI solutions for low-latency intelligent monitoring  
+- Sensor fusion and multi-sensor data processing  
+- Embedded software, signal processing, and smart system integration 
 
 ---
