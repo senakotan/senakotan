@@ -20,18 +20,29 @@
 
 ## 👩🏻‍💻 About Me
 
-
-Electrical Electronics and Computer Engineering student focused on building intelligent software systems, embedded solutions, and scalable backend applications.  
-I work at the intersection of backend development, AI integration, edge systems, and hardware-software co-design.
+Electrical Electronics and Computer Engineering student focused on developing intelligent software systems, embedded solutions, and practical AI applications.  
+My work combines backend development, embedded systems, computer vision, and hardware-software integration.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Core Technologies
 
 <table align="center">
   <tr>
-    <th>Area</th>
-    <th>Technologies</th>
+    <th>Category</th>
+    <th>Tools / Technologies</th>
+  </tr>
+
+  <tr>
+    <td><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+    </td>
   </tr>
 
   <tr>
@@ -45,7 +56,7 @@ I work at the intersection of backend development, AI integration, edge systems,
   </tr>
 
   <tr>
-    <td><b>Frontend</b></td>
+    <td><b>Frontend / UI</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -56,19 +67,7 @@ I work at the intersection of backend development, AI integration, edge systems,
   </tr>
 
   <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>AI / ML</b></td>
+    <td><b>AI / Computer Vision</b></td>
     <td>
       <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
       <img src="https://img.shields.io/badge/Computer%20Vision-5C2D91?style=flat-square"/>
@@ -81,10 +80,9 @@ I work at the intersection of backend development, AI integration, edge systems,
   </tr>
 
   <tr>
-    <td><b>Embedded / Hardware</b></td>
+    <td><b>Embedded Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
       <img src="https://img.shields.io/badge/UART%20%7C%20I2C%20%7C%20SPI-444444?style=flat-square"/>
       <img src="https://img.shields.io/badge/CubeIDE-0066CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/Keil-394049?style=flat-square"/>
@@ -102,23 +100,24 @@ I work at the intersection of backend development, AI integration, edge systems,
   </tr>
 
   <tr>
-    <td><b>DevOps / Tools</b></td>
+    <td><b>Engineering Tools</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
       <img src="https://img.shields.io/badge/LTSpice-B22222?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Proteus-1C5D99?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 Current Focus Areas
+## 🎯 Technical Interests
 
-- AI-powered backend systems and scalable software architectures  
-- Computer vision and real-time intelligent monitoring systems  
-- Edge computing and low-latency embedded AI applications  
-- Sensor fusion and multi-sensor data processing  
-- Embedded software, signal processing, and smart engineering systems  
+- AI-powered backend systems and software architectures  
+- Computer vision and intelligent monitoring systems  
+- Embedded software and real-time control  
+- Sensor fusion and signal processing  
+- Smart systems integrating hardware and software
+```
+
