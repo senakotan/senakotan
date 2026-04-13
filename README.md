@@ -112,11 +112,10 @@ My work combines backend development, embedded systems, computer vision, and har
 
 ---
 
-## 🎯 Technical Interests
+## Technical Interests
 
 - AI-powered backend systems and software architectures  
 - Computer vision and intelligent monitoring systems  
 - Embedded software and real-time control  
 - Sensor fusion and signal processing  
 - Smart systems integrating hardware and software
-```
