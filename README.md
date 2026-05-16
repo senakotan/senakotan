@@ -41,7 +41,6 @@ My work combines backend development, embedded systems, computer vision, and har
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
     </td>
   </tr>
 
