@@ -120,8 +120,3 @@ My work combines backend development, computer vision, and hardware-software int
 - Time-series forecasting and sensor data analytics
 - Hardware-software co-design for intelligent systems
 
----
-
-<p align="center">
-  <i>Always learning, building, and exploring the intersection of AI, software, and intelligent systems.</i>
-</p>
