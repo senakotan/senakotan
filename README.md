@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/sena-kotan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/senakotan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -21,6 +21,7 @@
 ## 👩🏻‍💻 About Me
 
 Electrical Electronics and Computer Engineering student focused on developing intelligent software systems, AI applications, and scalable backend technologies.
+
 My work combines backend development, computer vision, and hardware-software integration, with experience in embedded systems.
 
 ---
@@ -37,9 +38,9 @@ My work combines backend development, computer vision, and hardware-software int
     <td><b>Programming</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
     </td>
   </tr>
@@ -74,7 +75,7 @@ My work combines backend development, computer vision, and hardware-software int
       <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
       <img src="https://img.shields.io/badge/LLM-412991?style=flat-square"/>
       <img src="https://img.shields.io/badge/RAG-7B42BC?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Time%20Series-1F6FEB?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Time--Series%20Forecasting-1F6FEB?style=flat-square"/>
     </td>
   </tr>
 
@@ -82,9 +83,9 @@ My work combines backend development, computer vision, and hardware-software int
     <td><b>Embedded Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
-      <img src="https://img.shields.io/badge/UART%20%7C%20I2C%20%7C%20SPI-444444?style=flat-square"/>
       <img src="https://img.shields.io/badge/CubeIDE-0066CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/Keil-394049?style=flat-square"/>
+      <img src="https://img.shields.io/badge/UART%20%7C%20I2C%20%7C%20SPI-444444?style=flat-square"/>
     </td>
   </tr>
 
@@ -113,8 +114,14 @@ My work combines backend development, computer vision, and hardware-software int
 
 ## Technical Interests
 
-- AI-powered backend systems and software architectures  
-- Computer vision and intelligent monitoring systems  
-- Embedded software and real-time control  
-- Sensor fusion and signal processing  
-- Smart systems integrating hardware and software
+- AI-powered backend systems and scalable software architectures
+- Computer vision and intelligent monitoring systems
+- Retrieval-Augmented Generation (RAG) and LLM applications
+- Time-series forecasting and sensor data analytics
+- Hardware-software co-design for intelligent systems
+
+---
+
+<p align="center">
+  <i>Always learning, building, and exploring the intersection of AI, software, and intelligent systems.</i>
+</p>
