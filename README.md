@@ -20,8 +20,8 @@
 
 ## 👩🏻‍💻 About Me
 
-Electrical Electronics and Computer Engineering student focused on developing intelligent software systems, embedded solutions, and practical AI applications.  
-My work combines backend development, embedded systems, computer vision, and hardware-software integration.
+Electrical Electronics and Computer Engineering student focused on developing intelligent software systems, AI applications, and scalable backend technologies.
+My work combines backend development, computer vision, and hardware-software integration, with experience in embedded systems.
 
 ---
 
